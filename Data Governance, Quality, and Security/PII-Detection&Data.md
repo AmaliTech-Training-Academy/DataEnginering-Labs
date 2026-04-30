@@ -1,14 +1,14 @@
 # PII Detection & Data Quality Validation Pipeline
-## Data Engineering Mini Project
+### Data Engineering Mini Project
 
-### 1. Project Overview
+## Project Overview
 You've joined a fintech company that just collected customer data from multiple sources. It's messy and contains sensitive information. Your job: build a Python pipeline to profile the data, detect PII, validate quality, and remediate issues.
 
 > **Note:** This is real work—data engineers spend ~40% of their time cleaning data before analysis.
 
 ---
 
-### 2. The Dataset
+### The Dataset
 **File:** `customers_raw.csv`  
 **Expected Schema:** `customer_id, first_name, last_name, email, phone, date_of_birth, address, income, account_status, created_date`
 
@@ -28,7 +28,7 @@ You've joined a fintech company that just collected customer data from multiple 
 
 ---
 
-### 3. Project Parts
+##  Project Steps
 
 #### Part 1: Exploratory Data Quality Analysis
 **Objective:** Profile raw data to understand what's broken.
@@ -112,7 +112,7 @@ Write a 1-2 page reflection addressing:
 
 ---
 
-### 4. Deliverables Checklist
+## Deliverables Checklist
 - [ ] `data_quality_report.txt`
 - [ ] `pii_detection_report.txt`
 - [ ] `validation_results.txt`
