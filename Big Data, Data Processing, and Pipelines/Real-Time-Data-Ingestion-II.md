@@ -55,7 +55,7 @@ By the end of this project, you will be able to:
 
 ---
 
-## Deliverables
+## Project Deliverables
 
 | Deliverable | Description |
 |---|---|
