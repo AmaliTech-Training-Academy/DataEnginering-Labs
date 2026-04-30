@@ -36,7 +36,7 @@ The platform consists of four primary services running in isolated Docker contai
 
 ---
 
-## 🛠 CI/CD & Automation (GitHub Actions)
+## CI/CD & Automation (GitHub Actions)
 The repository must include a `.github/workflows/main.yml` file to automate the following:
 
 * **Continuous Integration (CI):** * Build and lint Docker images for each service on every commit.
