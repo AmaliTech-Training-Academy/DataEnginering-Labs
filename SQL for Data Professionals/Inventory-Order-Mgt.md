@@ -2,7 +2,7 @@
 
 ---
 
-##Project Overview: Problem Statement
+## Project Overview: Problem Statement
 
 You are tasked with designing and implementing a database-driven system to manage the inventory and orders for an e-commerce company. The system needs to handle product information, customer data, and order processing efficiently while ensuring that stock levels are properly updated when orders are placed. Additionally, the company wants to track all inventory changes and streamline processes related to stock replenishment.
 
