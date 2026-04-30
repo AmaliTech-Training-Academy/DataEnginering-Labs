@@ -112,7 +112,7 @@ Write a 1-2 page reflection addressing:
 
 ---
 
-## Deliverables Checklist
+## Project Deliverables
 - [ ] `data_quality_report.txt`
 - [ ] `pii_detection_report.txt`
 - [ ] `validation_results.txt`
