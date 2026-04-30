@@ -357,7 +357,7 @@ Show numbers for at least 2 queries:
 
 ---
 
-## Deliverables Checklist
+## Deliverables 
 
 | File | Description |
 |---|---|
