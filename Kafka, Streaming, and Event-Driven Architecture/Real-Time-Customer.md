@@ -64,7 +64,7 @@ By the end of this project, students will be able to:
 
 ---
 
-## Deliverables
+## Project Deliverables
 * **Python scripts:** Data generator, Kafka producer, and consumer.
 * **SQL file:** To create the database schema.
 * **Docker Compose file:** (Optional but recommended).
