@@ -3,7 +3,7 @@
 ## Project Overview
 This project aims to simulate and process real-time heart rate data for customers using a data pipeline. You'll learn how to generate synthetic data, stream it using **Apache Kafka**, and store it in a **PostgreSQL** database. This hands-on project introduces you to important concepts like data simulation, message queuing, real-time processing, and database integration—core components of modern data engineering systems.
 
-## Learning Objectives
+## Project Objectives
 By the end of this project, students will be able to:
 1. **Simulate** real-time sensor data to mimic heart rate monitors.
 2. **Use Kafka** for real-time data streaming, setting up producers and consumers.
@@ -34,7 +34,7 @@ By the end of this project, students will be able to:
 
 ---
 
-## Tasks
+## Project Steps
 
 ### 1. Data Simulation & Ingestion
 * Develop and run a Python script that continuously creates random but realistic heart beat readings.
