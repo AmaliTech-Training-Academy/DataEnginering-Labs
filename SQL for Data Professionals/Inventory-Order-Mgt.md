@@ -79,7 +79,7 @@ The system should provide insights into customer purchase behaviors, monitor sto
 
 ---
 
-## Deliverables
+## Project Deliverables
 
 | Deliverable | Description |
 |---|---|
