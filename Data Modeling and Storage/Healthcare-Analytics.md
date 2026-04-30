@@ -1,6 +1,6 @@
 # Healthcare Analytics Lab: OLTP to Star Schema
 
-**Data Engineering Mini Project**
+### Data Engineering Mini Project
 
 ---
 
