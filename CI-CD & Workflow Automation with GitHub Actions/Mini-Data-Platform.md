@@ -4,7 +4,7 @@ Build a functional, end-to-end data platform using **Docker Compose** to manage 
 
 ---
 
-## 🏗 Architecture & Components
+## Architecture & Components
 The platform consists of four primary services running in isolated Docker containers:
 
 | Component | Technology | Purpose |
@@ -16,7 +16,7 @@ The platform consists of four primary services running in isolated Docker contai
 
 ---
 
-## 🚀 Project Workflow
+##  Project Workflow
 
 ### Part 1: Infrastructure Setup
 * Define all four services in a single `docker-compose.yml` file.
@@ -46,7 +46,7 @@ The repository must include a `.github/workflows/main.yml` file to automate the 
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```text
 ├── dags/                # Airflow DAG definitions
 ├── data_generator/      # Python scripts for synthetic data
